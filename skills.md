@@ -49,10 +49,10 @@
   <div style="flex: 1;">
     <h3>📊 Technical Skills </h3>
     <ul>
-      <li> Excel: PivotTables, VLOOKUP/XLOOKUP, data validation using formulas, conditional formating and dashboard creation</li>   
-      <li> MS Office/365: Word, PowerPoint, Outlook, Teams, Viso</li>
-      <li> SQL: Queries for data extraction, analysis, and validation (joins, update)</li>
-      <li> Project Support: Managing multiple tasks, documenting processes</li>
+      <li> Excel: PivotTables, VLOOKUP/XLOOKUP, data validation using formulas, conditional formating and dashboard creation </li>   
+      <li> MS Office/365: Word, PowerPoint, Outlook, Teams, Viso </li>
+      <li> SQL: Queries for data extraction, analysis, and validation (joins, update) </li>
+      <li> Project Support: Managing multiple tasks, documenting processes </li>
   </div>
 
   <div style="flex: 1;">
@@ -60,7 +60,7 @@
     <ul>
       <li> Clear written and verbal communication  </li>
       <li> Problem solving </li>
-      <li> Prioritisation and time management</li>
+      <li> Prioritisation and time management </li>
   </div>
 
 </div>
