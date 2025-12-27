@@ -1,3 +1,11 @@
+[About](about.md) |
+[Skills](skills.md) |
+[MS Excel](msexcel.md) |
+[MS Office](msoffice.md)|
+[Social Housing](socialhousing.md)
+
+---
+
 <div style="text-align: center;">
   <h1>Skills</h1>
 </div> 
@@ -46,22 +54,22 @@
 <!-- THIRD ROW OF 3 COLUMNS -->
 <div style="display: flex; gap: 20px;margin-bottom: 30px;">
 
-  <div style="flex: 1;">
-    <h3>📊 Technical Skills </h3>
-    <ul>
-      <li> Excel: PivotTables, VLOOKUP/XLOOKUP, data validation using formulas, conditional formating and dashboard creation </li>   
-      <li> MS Office/365: Word, PowerPoint, Outlook, Teams, Viso </li>
-      <li> SQL: Queries for data extraction, analysis, and validation (joins, update) </li>
-      <li> Project Support: Managing multiple tasks, documenting processes </li>
-  </div>
+<div style="flex: 1;">
+  <h3>📊 Technical Skills </h3>
+   <ul>
+     <li> Excel: PivotTables, VLOOKUP/XLOOKUP, data validation using formulas, conditional formating and dashboard creation </li>   
+     <li> MS Office/365: Word, PowerPoint, Outlook, Teams, Viso </li>
+     <li> SQL: Queries for data extraction, analysis, and validation (joins, update) </li>
+     <li> Project Support: Managing multiple tasks, documenting processes </li>
+</div>
 
-  <div style="flex: 1;">
-    <h3>🤝 Soft Skills</h3>
-    <ul>
-      <li> Clear written and verbal communication  </li>
-      <li> Problem solving </li>
-      <li> Prioritisation and time management </li>
-  </div>
+<div style="flex: 1;">
+  <h3>🤝 Soft Skills</h3>
+   <ul>
+     <li> Clear written and verbal communication  </li>
+     <li> Problem solving </li>
+     <li> Prioritisation and time management </li>
+</div>
 
 </div>
 
