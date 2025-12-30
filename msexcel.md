@@ -16,3 +16,4 @@ Below is an example of a worksheet I created to verify if I have overworked hour
 
 ---  
 
+<img width="1615" height="564" alt="image" src="https://github.com/user-attachments/assets/feb397bc-b748-4d53-b150-b383b0dfcf3c" />
