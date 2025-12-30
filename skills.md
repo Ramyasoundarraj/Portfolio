@@ -1,3 +1,4 @@
+[Home](index.md) |
 [About](about.md) |
 [Skills](skills.md) |
 [MS Excel](msexcel.md) |
