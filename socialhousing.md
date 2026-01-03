@@ -11,12 +11,12 @@
 
 ---
 
-<img width="600" height="800" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/c70b6d76-b22c-48fb-b63c-e7d03cafb7fc" />
+<img width="400" height="600" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/c70b6d76-b22c-48fb-b63c-e7d03cafb7fc" />
 
 ---
 
 
-<img width="3276" height="1740" alt="_- visual selection (5)" src="https://github.com/user-attachments/assets/ecfcae89-08c8-4751-ba50-97bf77fcd92c" />
+<img width="1400" height="800" alt="_- visual selection (5)" src="https://github.com/user-attachments/assets/ecfcae89-08c8-4751-ba50-97bf77fcd92c" />
 
 
 ---
